@@ -1,0 +1,1 @@
+This respository contains assignment on Relational Database Management from Data-Science Bootcamp at GOMYCODE using Structural Query Langugage (SQL). 
